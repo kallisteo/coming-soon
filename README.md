@@ -33,7 +33,6 @@ coming-soon-template/
 │   │       ├── bg.jpg
 │   │       ├── xs.jpg
 │   │       └── logo.png
-│   └── js/ (optional for countdown or animations)
 └── README.md
 ```
 
@@ -123,4 +122,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any issues, suggestions, or questions regarding the project, please open a new issue on the official GitHub repository or reach out directly to the maintainer through the [GitHub Issues](https://github.com/kallisteo/coming-soon/issues) page for further assistance and follow-up.
+For any issues, suggestions, or questions regarding the project, please open a new issue on the official GitHub repository or reach out directly to the maintainer through the [GitHub Issues](issues) page for further assistance and follow-up.
