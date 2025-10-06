@@ -2,7 +2,7 @@
 
 A **minimal, elegant, and responsive “Coming Soon” landing page** built with **HTML5**, **CSS3**, and **Bootstrap 5**. Perfect for startups, agencies, and personal projects preparing for launch.
 
-![Preview](assets/src/images/screenshot.jpg)
+![Preview](assets/src/images/screenshot.png)
 
 * * *
 
@@ -44,7 +44,7 @@ coming-soon-template/
 1. **Clone or Download** this repository:
 
    ```bash
-   git clone https://github.com/yourusername/coming-soon-template.git
+   git clone https://github.com/kallisteo/coming-soon.git
    ```
 2. **Open `index.html`** in your browser to preview.
 3. **Customize your content**:
@@ -123,4 +123,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For issues, suggestions, or questions, please open an issue on GitHub or contact the maintainer at [GitHub Issues](https://github.com/kallisteo/coming-soon/issues).
+For any issues, suggestions, or questions regarding the project, please open a new issue on the official GitHub repository or reach out directly to the maintainer through the [GitHub Issues](https://github.com/kallisteo/coming-soon/issues) page for further assistance and follow-up.
